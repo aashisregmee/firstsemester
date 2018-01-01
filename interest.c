@@ -12,3 +12,4 @@ int main()
     printf("you will have 100000 dollars in %d days",i);
     return 0;
 }
+
